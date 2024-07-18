@@ -1,0 +1,41 @@
+ {
+    "menu": {
+        "item2": "About me",
+        "item3": "Skills",
+        "item4": "Education",
+        "item5": "Projects",
+        "item6": "Experience"
+    },
+    "home": {
+        "home_text-1": "Hi! I'm",
+        "home_text-3": "Software Developer",
+        "parrafo-info": "Statistics and programming student focused on Frontend Web Development. As someone who loves intuitive and aesthetically pleasing designs, I seek to create projects that provide the best user experience.",
+        "cv_button": "Download CV",
+        "contact_button": "Contact"
+    },
+    "sobre-mi": {
+        "title": "About Me",
+        "texto_sobreMi": "I am an 18-year-old Systems Engineering student specializing in Cybersecurity, currently working in software development. One of my strongest skills is frontend web development. My goal is always to please the client and ensure they are completely satisfied with the work done. As a passionate advocate for intuitive and aesthetically pleasing design, I strive to create visually appealing and user-friendly applications."
+    },
+    "habilidades": {
+        "title": "Skills"
+    },
+    "formacion": {
+        "title": "Education",
+        "formacion1": "Computer Systems Engineer",
+        "tiempo-formacion1": "2024 - Ongoing"
+    },
+    "proyectos": {
+        "title": "Projects",
+        "title-proyecto1": "Website for Reybo",
+        "info-proyecto1": "A landing page for a company, featuring sections such as: Home, About Us, Services, Brands, Testimonials, Visit Us, and Contact Us. It also includes animations and is responsive.",
+        "title-proyecto2": "Portfolio",
+        "info-proyecto2": "My personal web portfolio, showcasing some of my most notable projects, technical skills, and a bit about my education.",
+        "title-proyecto3": "Text Encryptor",
+        "info-proyecto3": "An encryptor where users can type a text, and the encryptor encodes it with pre-programmed keys. The encryptor also allows for decrypting the text."
+    },
+    "experiencia": {
+        "title": "Experience",
+        "text": "Software Developer"
+    }
+}
